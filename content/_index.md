@@ -1,7 +1,11 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: GrownOps
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+description: Maturing operations together
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+**/ɡrō/n ō-ˌpē-ˈes**
+
+**Ongoing development process; that progress to maturity**
+
+We are a community of modern operations leaders (SRE, DevOps, EngOps, DevSecOps, etc) passionate about keeping up with the future of operations teams and sharing best practices to achieve Ops maturity. We organize live meetups (when possible), webinars, newsletters, and workshops.
