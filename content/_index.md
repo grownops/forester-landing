@@ -1,6 +1,6 @@
 ---
 title: GrownOps
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/bg-cornerstripe.png"
 description: Maturing operations together
 
 ---
