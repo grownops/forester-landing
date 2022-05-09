@@ -1,13 +1,13 @@
-baseURL: "http://example.org/"
+baseURL: "http://grownops.com/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "GrownOps"
 
 module:
   imports:
     - path: github.com/theNewDynamic/gohugo-theme-ananke
 
 DefaultContentLanguage: en
-SectionPagesMenu: main
+SectionPagesMenu: ''
 Paginate: 3
 googleAnalytics: ''
 enableRobotsTXT: true
@@ -20,7 +20,7 @@ params:
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: ''
   instagram: ''
   youtube: ''
   github: ''
@@ -32,4 +32,4 @@ params:
   rss: ''
   background_color_class: bg-black
   featured_image: /images/gohugo-default-sample-hero-image.jpg
-  recent_posts_number: 2
+  recent_posts_number: 0
