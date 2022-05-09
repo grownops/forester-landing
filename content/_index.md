@@ -1,7 +1,7 @@
 ---
 title: GrownOps
 featured_image: "/images/bg-cornerstripe.png"
-description: Maturing operations together
+description: Maturing operations together!
 
 ---
 **/ɡrō/n ō-ˌpē-ˈes**
