@@ -1,6 +1,6 @@
 baseURL: "https://grownops.github.io/"
 languageCode: "en-us"
-title: ""
+title: "Grown Ops Text Placeholder"
 
 module:
   imports:
