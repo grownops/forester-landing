@@ -1,6 +1,6 @@
 ---
 title: GrownOps
-featured_image: "/images/tra_grownops_icon-color.png"
+featured_image: ''
 description: Maturing operations together!
 
 ---
