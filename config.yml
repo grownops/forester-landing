@@ -19,6 +19,10 @@ params:
   favicon: '/images/favicon.ico'
   site_logo: '/images/tra_grownops_logo-color-circle-copy.png'
   description: join technical operations leaders focused on excellence and growth
+  ananke_socials:
+  - name: linkedin
+    label: Linkedin
+    follow: false
   facebook: ''
   twitter: ''
   instagram: ''
