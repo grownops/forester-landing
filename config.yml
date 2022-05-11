@@ -1,6 +1,6 @@
 baseURL: "https://grownops.github.io/"
 languageCode: "en-us"
-title: "Grown Ops Text Placeholder"
+title: "GrownOps Community"
 
 module:
   imports:
@@ -31,5 +31,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-grey
-  featured_image: ''
+  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
   recent_posts_number: 0
