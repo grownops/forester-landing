@@ -3,6 +3,7 @@ title: GrownOps
 featured_image: ''
 description: Maturing operations together!
 logo: "/images/tra_grownops_logo-color-circle.png"
+header-logo: "/images/tra_grownops_logo-white-circle.png"
 
 ---
 **/ɡrō/n ō-ˌpē-ˈes**
