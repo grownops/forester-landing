@@ -1,14 +1,14 @@
 ---
 title: GrownOps
 featured_image: ''
-description: Maturing operations together!
+description: ''
 logo: "/images/tra_grownops_logo-color-circle.png"
 header-logo: "/images/tra_grownops_logo-white-circle.png"
 
 ---
 **/ɡrō/n ō-ˌpē-ˈes**
 
-**The community for Operations maturity and growth**
+**A community of operations leaders focused on excellence and growth**
 
 We are a community of modern operations leaders (SRE, DevOps, EngOps, DevSecOps, etc) passionate about keeping up with the future of operations teams and sharing best practices to achieve Ops maturity. We organize live meetups (when possible), webinars, newsletters, workshops and **community**.
 
