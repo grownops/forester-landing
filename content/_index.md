@@ -8,7 +8,7 @@ description: Maturing operations together!
 
 **Ongoing development process; that progress to maturity**
 
-We are a community of modern operations leaders (SRE, DevOps, EngOps, DevSecOps, etc) passionate about keeping up with the future of operations teams and sharing best practices to achieve Ops maturity. We organize live meetups (when possible), webinars, newsletters, and workshops.
+We are a community of modern operations leaders (SRE, DevOps, EngOps, DevSecOps, etc) passionate about keeping up with the future of operations teams and sharing best practices to achieve Ops maturity. We organize live meetups (when possible), webinars, newsletters, workshops and **community**.
 
 {{< rawhtml >}}
 <!-- Begin Mailchimp Signup Form -->
