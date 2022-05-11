@@ -1,5 +1,5 @@
 ---
-title: ''
+title: GrownOps
 featured_image: "/images/tra_grownops_logo-color-horizontal.png"
 description: ''
 logo: "/images/tra_grownops_logo-color-circle.png"
