@@ -32,4 +32,5 @@ params:
   rss: ''
   background_color_class: bg-grey
   featured_image: ''
+  omit_header_text: true
   recent_posts_number: 0
