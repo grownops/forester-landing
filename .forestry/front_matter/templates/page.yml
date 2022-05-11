@@ -5,11 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: header-logo
-  type: file
-  config:
-    maxSize: 64
-  label: header-logo
 - type: file
   name: featured_image
   label: featured_image
