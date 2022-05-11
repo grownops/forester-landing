@@ -1,6 +1,6 @@
 ---
 title: GrownOps
-featured_image: ''
+featured_image: "/images/didi-miam-auvrwz03b2q-unsplash.jpg"
 description: ''
 logo: "/images/tra_grownops_logo-color-circle.png"
 header-logo: "/images/tra_grownops_logo-white-circle.png"
