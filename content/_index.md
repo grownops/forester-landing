@@ -2,7 +2,8 @@
 title: GrownOps
 featured_image: "/images/didi-miam-auvrwz03b2q-unsplash.jpg"
 omit_header_text: true
-description: 'Join the GrownOps Community'
+description: Join the Community
+
 ---
 **join operations leaders focused on excellence and growth**
 
