@@ -35,5 +35,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-grey
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: ''
   recent_posts_number: 0
