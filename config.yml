@@ -30,6 +30,6 @@ params:
   slack: 'https://grownopsio.slack.com'
   stackoverflow: ''
   rss: ''
-  background_color_class: bg-black
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  background_color_class: bg-grey
+  featured_image: ''
   recent_posts_number: 0
