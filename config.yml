@@ -17,8 +17,8 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: '/images/favicon.ico'
-  site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  site_logo: '/images/tra_grownops_logo-color-circle-copy.png'
+  description: join technical operations leaders focused on excellence and growth
   facebook: ''
   twitter: ''
   instagram: ''
@@ -27,7 +27,7 @@ params:
   gitlab: ''
   linkedin: ''
   mastodon: ''
-  slack: ''
+  slack: 'https://grownopsio.slack.com'
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
