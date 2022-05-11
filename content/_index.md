@@ -1,6 +1,6 @@
 ---
 title: GrownOps
-featured_image: "/images/john-schnobrich-2fpjlaymqta-unsplash.jpg"
+featured_image: ''
 description: Maturing operations together!
 logo: "/images/tra_grownops_logo-color-circle.png"
 
