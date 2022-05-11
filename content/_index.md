@@ -8,7 +8,7 @@ header-logo: "/images/tra_grownops_logo-white-circle.png"
 ---
 **/ɡrō/n ō-ˌpē-ˈes**
 
-**A community focused on ops growth in all facets**
+**The community for Operations maturity and growth**
 
 We are a community of modern operations leaders (SRE, DevOps, EngOps, DevSecOps, etc) passionate about keeping up with the future of operations teams and sharing best practices to achieve Ops maturity. We organize live meetups (when possible), webinars, newsletters, workshops and **community**.
 
