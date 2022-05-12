@@ -11,7 +11,7 @@ module:
 DefaultContentLanguage: en
 SectionPagesMenu: ''
 Paginate: 3
-googleAnalytics: ''
+googleAnalytics: 'G-1E7TFZL2HG'
 enableRobotsTXT: true
 sitemap:
   changefreq: monthly
