@@ -29,7 +29,7 @@ params:
   gitlab: ''
   linkedin: ''
   mastodon: ''
-  slack: 'slack://grownopsio.slack.com'
+  slack: 'https://grownopsio.slack.com'
   stackoverflow: ''
   rss: ''
   background_color_class: bg-grey
