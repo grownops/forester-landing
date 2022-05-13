@@ -5,7 +5,11 @@ omit_header_text: true
 description: Join the Community
 
 ---
+<<<<<<< Updated upstream
 **_Join operations leaders focused on excellence and growth._**
+=======
+**Join operations leaders focused on excellence and growth.**
+>>>>>>> Stashed changes
 
 We are a community of modern operations leaders (SRE, DevOps, EngOps, DevSecOps, etc) passionate about keeping up with the future of operations teams and sharing best practices to achieve Ops maturity. We organize live meetups (when possible), webinars, newsletters, workshops and **community**.
 
